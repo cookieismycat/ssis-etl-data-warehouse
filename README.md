@@ -57,11 +57,4 @@ ssis-etl-data-warehouse/
 │   ├── 04_create_fact_table.sql
 │   └── 05_load_fact_table.sql
 │
-├── images/
-│   ├── staging-tables.png
-│   ├── dimension-tables.png
-│   ├── dimension-load.png
-│   └── ssis-import.png
-│
-└── docs/
-    └── project-notes.md
+
